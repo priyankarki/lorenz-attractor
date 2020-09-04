@@ -1,6 +1,6 @@
 # Lorenz Attractor
 
-[Lorenz attractor](https://en.wikipedia.org/wiki/Lorenz_system) graphic created using C++
+[Lorenz attractor](https://en.wikipedia.org/wiki/Lorenz_system) graphic created using OpenGL.
 
 Key Bindings:
 -------------
