@@ -2,7 +2,8 @@
 
 [Lorenz attractor](https://en.wikipedia.org/wiki/Lorenz_system) graphic created using OpenGL.
 
-[img](lorenz.gif)
+![Lorenz Visualizer](lorenz.gif "Lorenz Visualizer")
+
 
 Key Bindings:
 -------------
